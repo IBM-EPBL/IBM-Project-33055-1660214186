@@ -12,7 +12,7 @@ Assignment 01 : Assignment1
 Assignment 02 : Assignment2
 Assignment 03 : Assignment3
 Assignment 04 : Assignment4
-# MANI KANDAN
+# MANI KANDAN S
 Assignment 01 : Assignment1
 Assignment 02 : Assignment2
 Assignment 03 : Assignment3
