@@ -66,7 +66,7 @@
 
  ## Ideation Phase : 
  
-   #### Abstract          : [Abstract]
+   #### Abstract          : [Abstract](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/IDEATION%20PHASE/ABSTRACT.pdf)
    
    #### Literature Survey : [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/IDEATION%20PHASE/LITERATURE%20SURVEY.pdf)
 			 
