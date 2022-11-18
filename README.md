@@ -76,7 +76,7 @@
 			 
    #### Brainstorming Map : [Brainstorming map](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/IDEATION%20PHASE/BRAINSTORMING%20MAP.pdf)
    
-  ## PREREQUISITES :
+  ## PREREQUISITES   :
   
   - PREREQUISITES
   
