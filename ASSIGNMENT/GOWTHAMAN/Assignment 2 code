@@ -1,0 +1,14 @@
+import random
+import time
+
+while True:
+ temperature = random.randint(1,200)
+ humidity = random.randint(1,100)
+ print(f"Checking Temperature: {temperature}C")
+ print(f"Checking Humidity: {humidity}%")
+ if temperature>=43:
+  print(f"Temperature is {temperature}C\nAlarm Detected...")
+	
+ print("\n")
+	
+ time.sleep(8)
