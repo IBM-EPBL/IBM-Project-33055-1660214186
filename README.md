@@ -11,57 +11,57 @@
 
    ### Gowthaman R
 
-   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/GOWTHAMAN%20R/ASSIGNMENTS%201%20CODE)
+   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/GOWTHAMAN/ASSIGNMENT%201%20CODE)
 
-   #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/GOWTHAMAN%20R/ASSIGNMENTS%202%20CODE)
+   #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/GOWTHAMAN/ASSIGNMENT%202%20CODE)
    
-   #### Assignment 3A :   [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/GOWTHAMAN%20R/ASSIGNMENT%203A%20CODE)
+   #### Assignment 3A :   [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/GOWTHAMAN/ASSIGNMENT%203A%20CODE)
    
-   #### Assignment 3B :   [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/GOWTHAMAN%20R/ASSIGNMENT%203B%20CODE)
+   #### Assignment 3B :   [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/GOWTHAMAN/ASSIGNMENT%203B%20CODE)
    
-   #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/GOWTHAMAN%20R/ASSIGNMENT%204%20CODE.pdf)
+   #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/GOWTHAMAN/ASSIGNMENT%20%204.pdf)
 
 ## Team Member 1
 
    ### Boopathi M
 
-   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/BOOPATHI%20M/ASSIGNMENTS%201%20CODE)
+   #### Assignment 01 :   [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/BOOPATHI%20M/ASSIGNMENT%201%20CODE)
 
-  #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/BOOPATHI%20M/ASSIGNMENTS%202%20CODE)
+  #### Assignment 02 :   [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/BOOPATHI%20M/ASSIGNMENT%202%20CODE)
    
-  #### Assignment 3A :   [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/BOOPATHI%20M/ASSIGNMENT%203A%20CODE)
+  #### Assignment 3A :   [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/BOOPATHI%20M/ASSIGNMENT%203A)
   
-  #### Assignment 3B :   [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/BOOPATHI%20M/ASSIGNMENT%203B%20CODE)
+  #### Assignment 3B :   [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/BOOPATHI%20M/ASSIGNMENT%203B)
   
-  #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/BOOPATHI%20M/ASSIGNMENT%204%20CODE.pdf)
+  #### Assignment 04 :   [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/BOOPATHI%20M/ASSIGNMENT%204.pdf)
 
 ## Team Member 2
 
    ### Mani Kandan S
 
-   #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/MANI%20KANDAN%20S/ASSIGNMENTS%201%20CODE)
+   #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/MANI%20KANDAN%20S/ASSIGNMENT%20CODE%201)
 
-  #### Assignment 02 :  [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/MANI%20KANDAN%20S/ASSIGNMENTS%202%20CODE)
+  #### Assignment 02 :  [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/MANI%20KANDAN%20S/ASSIGNMENT%20CODE%202)
    
-  #### Assignment 3A :  [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/MANI%20KANDAN%20S/ASSIGNMENT%203A%20CODE)
+  #### Assignment 3A :  [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/MANI%20KANDAN%20S/ASSIGNMENT%203A)
   
-  #### Assignment 3B :  [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/MANI%20KANDAN%20S/ASSIGNMENT%203B%20CODE)
+  #### Assignment 3B :  [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/MANI%20KANDAN%20S/ASSIGNMENT%203B)
    
-  #### Assignment 04 :  [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/MANI%20KANDAN%20S/ASSIGNMENT%204%20CODE.pdf)
+  #### Assignment 04 :  [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/MANI%20KANDAN%20S/ASSIGNMENT%204.pdf)
 
 ## Team Member 3
 
   ### Surya V
 
-  #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/SURYA%20V/ASSIGNMENTS%201%20CODE) 
+  #### Assignment 01 : [Assignment1](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/SURYA%20V/ASSIGNMENT%20CODE%201) 
 
-  #### Assignment 02 : [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/SURYA%20V/ASSIGNMENTS%202%20CODE)
+  #### Assignment 02 : [Assignment2](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/SURYA%20V/ASSIGNMENT%20CODE%202)
    
-  #### Assignment 3A : [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/SURYA%20V/ASSIGNMENT%203A%20CODE)
+  #### Assignment 3A : [Assignment3A](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/SURYA%20V/ASSIGNMENT%203A)
   
-  #### Assignment 3B : [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/SURYA%20V/ASSIGNMENT%203B%20CODE)
+  #### Assignment 3B : [Assignment3B](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/SURYA%20V/ASSIGNMENT%203B)
    
-  #### Assignment 04 : [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENTS/SURYA%20V/ASSIGNMENT%204%20CODE.pdf)
+  #### Assignment 04 : [Assignment4](https://github.com/IBM-EPBL/IBM-Project-33055-1660214186/blob/main/ASSIGNMENT/SURYA%20V/ASSIGNMENT%204.pdf)
 
 
  ## Ideation Phase : 
